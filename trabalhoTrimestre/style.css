@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+h1{
+    text-align: justify;
+    color: black;
+    
+}
+body{
+    background-color: thistle;
+    text-align: justify;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+a{
+    color: blueviolet;
+    text-decoration: solid;
+}
+
+.banner{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.pessoas{
+    margin: 20px;
+}
